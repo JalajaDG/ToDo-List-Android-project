@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="tasksheading">Tasks</string>
+    <string name="fabcd">contentdescription</string>
+    <string name="sampletask">This is a sample task</string>
+    <string name="hint">Enter new task</string>
+    <string name="save">Save</string>
+
+
+</resources>
